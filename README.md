@@ -15,3 +15,8 @@ For example
 > SEND + MORE = MONEY
 > 
 > 9567 + 1085 = 10652
+
+## Sorting
+
+Implementations of a few sorting algorithms and comparing them time performance 
+wise. 
